@@ -34,7 +34,7 @@ export const projectsData = [
     info: ' I build this website with React. I have used styled components to keep everything organize. I have implemented react hooks for my toggle. Website content is stored in data folder, which I am using to diplay content in my sections.  ',
     // info2: '',
     url: 'https://londonairbnb.netlify.app/',
-    repo: 'https://github.com/Baiid/AirbnbWeb, // if no repo, the button will not show up
+    repo: 'https://github.com/Baiid/AirbnbWeb', // if no repo, the button will not show up
   },
   
     {
