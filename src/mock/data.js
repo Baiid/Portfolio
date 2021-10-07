@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am self though front-end developer who is passionate about building awesome website’s and application’s! I have currently learned and used HTML, CSS, SASS, Vanilla Javascript and React. On personal level, I am self-driven & hard working, I am able to adapt very quick and overall I am very curious. Also, I am really friendly who can fit in any team. ',
   paragraphTwo: 'My current skills',
-  paragraphThree: 'HTML, CSS, BOOTSTRAP, SASS, JAVASCRIPT ',
+  paragraphThree: 'HTML, CSS, BOOTSTRAP, SASS, Javascript, React, Gatsby ',
   resume: 'https://drive.google.com/drive/my-drive', // if no resume, the button will not show up
 };
 
