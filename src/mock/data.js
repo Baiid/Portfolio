@@ -27,6 +27,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+         {
+    id: nanoid(),
+    img: 'lightbox.png',
+    title: 'London Airbnb',
+    info: 'Technical test project. Building pixel perfect website following sketch design. I build the site with HTML, CSS, Boostrap',
+    // info2: '',
+    url: 'https://baiid.github.io/LightBoxProject/',
+    repo: 'https://github.com/Baiid/LightBoxProject', // if no repo, the button will not show up
+  },
        {
     id: nanoid(),
     img: 'airbnb.png',
