@@ -30,7 +30,7 @@ export const projectsData = [
          {
     id: nanoid(),
     img: 'lightbox.png',
-    title: 'London Airbnb',
+    title: 'Technical test project',
     info: 'Technical test project. Building pixel perfect website following sketch design. I build the site with HTML, CSS, Boostrap',
     // info2: '',
     url: 'https://baiid.github.io/LightBoxProject/',
