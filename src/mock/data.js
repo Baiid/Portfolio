@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'tesla.png',
     title: 'Tesla Clone',
-    info: 'I build this clone base on original website. I have used Redux for my navgation and state hook for mobile menu.',
+    info: 'I build this clone base on original website using React. I have used Redux for my navgation and state hook for mobile menu.',
     // info2: '',
     url: 'https://teslaclone001.netlify.app/',
     repo: 'https://github.com/Baiid/Tesla', // if no repo, the button will not show up
