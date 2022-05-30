@@ -19,14 +19,23 @@ export const heroData = {
 export const aboutData = {
   img: 'profile-pic.jpg',
   paragraphOne:
-    'I am self though front-end developer who is passionate about building awesome website’s and application’s! I have currently learned and used HTML, CSS, SASS, Vanilla Javascript and React. On personal level, I am self-driven & hard working, I am able to adapt very quick and overall I am very curious. Also, I am really friendly who can fit in any team. ',
+    'I am self though front-end developer who is passionate about building awesome website’s and application’s! I have currently learned and used HTML, CSS, SASS, PHP, Javascript, React. On personal level, I am self-driven & hard working, I am able to adapt very quick and overall I am very curious. Also, I am really friendly who can fit in any team. ',
   paragraphTwo: 'My current skills',
-  paragraphThree: 'HTML, CSS, BOOTSTRAP, SASS, Javascript, React, Gatsby ',
+  paragraphThree: 'HTML, CSS, BOOTSTRAP, SASS, Javascript, React, Gatsby, PHP, Ghost CMS, Wordpress CMS, Docker, CLI, GIT ',
  
 };
 
 // PROJECTS DATA
 export const projectsData = [
+            {
+    id: nanoid(),
+    img: 'spaniel.png',
+    title: 'Digital Spaniel',
+    info: 'Test Project - Used ContextApi, created local db and passed the data via ContextApi to testimonials. Used boostrap, styled-components. The navigation is sticky and hide on scroll down and show back on scroll up. I used some reusable componenents. The app is fully responsive. ',
+    // info2: '',
+    url: 'https://digital-spaniel-project.netlify.app/',
+    repo: 'https://github.com/MartinJahoda/Digital-Spaniel', // if no repo, the button will not show up
+  },
           {
     id: nanoid(),
     img: 'tesla.png',
